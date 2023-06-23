@@ -1,4 +1,4 @@
-DROP DATABASE EmmanuelNwambuonwoLibrary;
+CREATE DATABASE EmmanuelNwambuonwoLibrary;
 GO
 
 USE EmmanuelNwambuonwoLibrary
