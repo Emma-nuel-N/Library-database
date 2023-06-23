@@ -426,8 +426,6 @@ VALUES
 ('Pride and Prejudice', 'Jane Austen', '2022-03-25', '1813', 9780141439518, NULL, NULL, 5, 1),
 ('Wuthering Heights', 'Emily Bronte', '2022-03-25', '1847', 9780141439556, NULL, NULL, 5, 1),
 ('The Adventures of Huckleberry Finn', 'Mark Twain', '2022-03-25', '1884', 9780141199009, NULL, NULL, 5, 1),
-('The Odyssey', 'Homer', '2022-03-25', '-8', 9780140268867, NULL, NULL, 5, 1),
-('The Iliad', 'Homer', '2022-03-25', '-008', 9780140445923, NULL, NULL, 5, 1),
 ('The Divine Comedy', 'Dante Alighieri', '2022-03-25', '1320', 9780451208637, NULL, NULL, 5, 1),
 ('Moby-Dick', 'Herman Melville', '2022-03-25', '1851', 9780142437247, '2023-01-25', NULL, 2, 1),
 ('The Picture of Dorian Gray', 'Oscar Wilde', '2022-03-25', '1890', 9780141439570, NULL, NULL, 5, 1),
